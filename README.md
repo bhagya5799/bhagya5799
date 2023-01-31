@@ -40,11 +40,11 @@
   <img src="https://cdn3.emoji.gg/emojis/css.png"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.emoji.gg/emojis/HTML.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.emoji.gg/emojis/node_js.png" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" **alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/sqlite-282687.png?w=512&f=avif" title="SQLITE"  alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/git-1-226092.png?w=512&f=avif" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePh_DG4k83kYLIpF-7pSO31A7FNNDVJllUOeUY0jf_WCLTQlyXcp_3tlVGfpW9rKMYuk&usqp=CAU" title="python" **alt="python" width="40" height="40"/>
+     <img src="https://toppng.com//public/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" title="mongodb" **alt="mongodb" width="40" height="40"/>
  
 </div>
 ---
